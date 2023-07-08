@@ -1,0 +1,20 @@
+1
+00:00:01,266 --> 00:00:02,666
+Hello friends!
+
+2
+00:00:02,933 --> 00:00:05,066
+First of all, I want to point out that.
+
+3
+00:00:05,366 --> 00:00:08,166
+You see the English version of Word.
+
+4
+00:00:08,366 --> 00:00:17,300
+Actually, I would like to show it in Turkish, but since I plan to prepare English versions of these videos, I will try to explain it this way.
+
+5
+00:00:17,533 --> 00:00:21,666
+I think you are familiar with the Turkish translation of many terms that appear on the screen.
+
